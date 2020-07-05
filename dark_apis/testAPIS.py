@@ -1,4 +1,5 @@
 # -*-coding:utf-8 -*-
+# For Python2
 import os
 import urllib2
 import json

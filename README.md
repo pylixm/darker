@@ -1,12 +1,7 @@
-# pyli.pytools
+# Darker 
 
-个人python 工具集合。
+> Darker 取自周浩晖的畅销小说《死亡通知单》。
 
-# 说明
-
-本项目基于BeginMan的工具项目 [pytool](https://github.com/BeginMan/pytool)，在此基础上，根据自己工作积累补充总结而来。
+Python 学习实例代码。
 
 
-# 开源项目收集
-
- - [showDOC](https://github.com/pylixm/showdoc)
